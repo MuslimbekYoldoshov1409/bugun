@@ -1,5 +1,3 @@
-3-file 1-qator
-3-file 2-qator
 3-file 3-qator
 4-file 4-qator
 
