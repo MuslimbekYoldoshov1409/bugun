@@ -5,4 +5,8 @@
 1-file 45-qator
 =======
 4-file 5
+<<<<<<< HEAD
 >>>>>>> 4c4fb908432f9588630cff1567d2cbf3bef8cf4b
+=======
+5-qator
+>>>>>>> e1bb3790e6f2dfd89fec194a210ee8440830eb3f
