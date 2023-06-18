@@ -10,3 +10,4 @@
 =======
 5-qator
 >>>>>>> e1bb3790e6f2dfd89fec194a210ee8440830eb3f
+6-qator
