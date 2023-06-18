@@ -1,4 +1,8 @@
 1-file 1-qator
 1-file 2-qator
 1-file 1234-qator
+<<<<<<< HEAD
 1-file 45-qator
+=======
+4-file 5
+>>>>>>> 4c4fb908432f9588630cff1567d2cbf3bef8cf4b
